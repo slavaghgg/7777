@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\SFML_TEMPLATE9\Player.h(18,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  SFML_TEMPLATE9.vcxproj -> D:\SFML_TEMPLATE9\x64\Debug\SFML_TEMPLATE9.exe
